@@ -9,6 +9,6 @@ ProductCode: "{CHANGE_ME}"
 Installers:
   - Architecture: x64
     InstallerUrl: https://github.com/kaanreal/henkan/releases/download/v1.2.0/Henkan_1.2.0_x64_en-US.msi
-    InstallerSha256: 0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5
+    InstallerSha256: 1b67d7b9a8412c5f400ae959bae72bffd1b3610b778afbdbc32d29f25c76538d
 ManifestType: installer
 ManifestVersion: 1.6.0
