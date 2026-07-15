@@ -5,7 +5,7 @@ InstallerType: wix
 InstallerSwitches:
   Silent: /quiet /norestart
   SilentWithProgress: /passive /norestart
-ProductCode: "{CHANGE_ME}"
+ProductCode: "{4DCC65A4-A747-5BE9-97C4-DD30ECA7F83C}"
 Installers:
   - Architecture: x64
     InstallerUrl: https://github.com/kaanreal/henkan/releases/download/v1.2.0/Henkan_1.2.0_x64_en-US.msi
