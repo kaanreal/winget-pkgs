@@ -1,14 +1,12 @@
 PackageIdentifier: kaanreal.henkan
 PackageVersion: 1.4.0
 InstallerLocale: en-US
-InstallerType: wix
+InstallerType: nullsoft
 InstallerSwitches:
-  Silent: /quiet /norestart
-  SilentWithProgress: /passive /norestart
-ProductCode: "{CHANGE_ME}"
+  Silent: /S
 Installers:
   - Architecture: x64
-    InstallerUrl: https://github.com/kaanreal/henkan/releases/download/v1.4.0/Henkan_1.4.0_x64_en-US.msi
-    InstallerSha256: 0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5
+    InstallerUrl: https://github.com/kaanreal/henkan/releases/download/v1.4.0/Henkan_1.4.0_x64-setup.exe
+    InstallerSha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
 ManifestType: installer
 ManifestVersion: 1.6.0
