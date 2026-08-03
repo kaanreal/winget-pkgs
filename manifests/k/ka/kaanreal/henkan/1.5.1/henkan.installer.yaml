@@ -1,0 +1,12 @@
+PackageIdentifier: kaanreal.henkan
+PackageVersion: 1.5.1
+InstallerLocale: en-US
+InstallerType: nullsoft
+InstallerSwitches:
+  Silent: /S
+Installers:
+  - Architecture: x64
+    InstallerUrl: https://github.com/kaanreal/henkan/releases/download/v1.5.1/Henkan-v1.5.1-windows-setup.exe
+    InstallerSha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+ManifestType: installer
+ManifestVersion: 1.6.0
