@@ -7,6 +7,6 @@ InstallerSwitches:
 Installers:
   - Architecture: x64
     InstallerUrl: https://github.com/kaanreal/henkan/releases/download/v1.5.1/Henkan-v1.5.1-windows-setup.exe
-    InstallerSha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+    InstallerSha256: 8715a05f90ddb52c05528120ab766fb598060704593dcf52e1a6f074f6a8f092
 ManifestType: installer
 ManifestVersion: 1.6.0
